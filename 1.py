@@ -13,7 +13,7 @@
 
 import re
 
-filename = "/Users/cyril/Documents/aoc23/eightfivesssxxmgthreethreeone1sevenhnz.txt"
+filename = "/Users/cyril/Documents/aoc23/input1.txt"
 
 # with open(filename) as file:
 #     for line in file:
